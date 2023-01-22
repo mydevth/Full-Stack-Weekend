@@ -46,3 +46,8 @@ const initialFacts = [
 // LINK TO APP SAMPLE DATA: https://docs.google.com/spreadsheets/d/1eeldcA_OwP4DHYEvjG0kDe0cRys-cDPhc_E9P9G1e3I/edit#gid=0
 
 // 👍 🤯 ⛔️
+
+curl "https://nvelchatjncgupbwezot.supabase.co/rest/v1/facts?select=id" -H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im52ZWxjaGF0am5jZ3VwYndlem90Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzQzNTU3MTUsImV4cCI6MTk4OTkzMTcxNX0.SqM_t2WJAEw9Vy0CQOrvdm42l9KbiNduA9QfYVEjN7o"  -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im52ZWxjaGF0am5jZ3VwYndlem90Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzQzNTU3MTUsImV4cCI6MTk4OTkzMTcxNX0.SqM_t2WJAEw9Vy0CQOrvdm42l9KbiNduA9QfYVEjN7o"
+
+akkadate@gmail.com
+PhingAkkadate

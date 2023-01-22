@@ -11,8 +11,11 @@ body {
   padding: 48px 64px;
 }
 
-/* MAIN LAYOUT */
+.hidden {
+  display: none !important;
+}
 
+/* MAIN LAYOUT */
 .container {
   max-width: 1500px;
   margin: 0 auto;
