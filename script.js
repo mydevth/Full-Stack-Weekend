@@ -223,4 +223,4 @@ console.log(factAges);
 console.log(factAges.join("-"));
 */
 
-// DOM
+
