@@ -52,4 +52,4 @@ curl "https://nvelchatjncgupbwezot.supabase.co/rest/v1/facts?select=id" -H "apik
 akkadate@gmail.com
 PhingAkkadate
 
-testnbu
+testnbu is ok
