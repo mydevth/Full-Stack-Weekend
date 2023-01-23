@@ -30,9 +30,6 @@ const initialFacts = [
     votesFalse: 1,
     createdIn: 2015,
   },
-  {
-    text: "Akkadate",
-  },
 ];
 
 const CATEGORIES = [
