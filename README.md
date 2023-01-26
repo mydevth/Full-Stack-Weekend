@@ -23,3 +23,5 @@ Alternatively, use the below to see the errors:
 ## npm audit
 
 https://todaykoblearned.netlify.app/
+
+supabase akkadate@gmail.com
